@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astghik Saharyan | Juan Rafael Álvarez</title>
-    <link>/author/astghik-saharyan/</link>
-      <atom:link href="/author/astghik-saharyan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juanralvarez.github.io/mypage/author/astghik-saharyan/</link>
+      <atom:link href="https://juanralvarez.github.io/mypage/author/astghik-saharyan/index.xml" rel="self" type="application/rss+xml" />
     <description>Astghik Saharyan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Juan Rafael Álvarez</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu722cef3593155f25c773b3f07184dad6_40422_512x512_fill_lanczos_center_2.png</url>
+      <url>https://juanralvarez.github.io/mypage/media/icon_hu722cef3593155f25c773b3f07184dad6_40422_512x512_fill_lanczos_center_2.png</url>
       <title>Astghik Saharyan</title>
-      <link>/author/astghik-saharyan/</link>
+      <link>https://juanralvarez.github.io/mypage/author/astghik-saharyan/</link>
     </image>
     
     <item>
       <title>Light-matter interaction in open cavities with dielectric stacks</title>
-      <link>/publication/multilayer/</link>
+      <link>https://juanralvarez.github.io/mypage/publication/multilayer/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/multilayer/</guid>
+      <guid>https://juanralvarez.github.io/mypage/publication/multilayer/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

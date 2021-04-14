@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan Rafael Álvarez</title>
-    <link>/author/juan-rafael-alvarez/</link>
-      <atom:link href="/author/juan-rafael-alvarez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juanralvarez.github.io/mypage/author/juan-rafael-alvarez/</link>
+      <atom:link href="https://juanralvarez.github.io/mypage/author/juan-rafael-alvarez/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Rafael Álvarez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Juan Rafael Álvarez</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/juan-rafael-alvarez/avatar_huba6165a543db040e815f6be396256411_1591630_270x270_fill_lanczos_center_2.png</url>
+      <url>https://juanralvarez.github.io/mypage/author/juan-rafael-alvarez/avatar_huba6165a543db040e815f6be396256411_1591630_270x270_fill_lanczos_center_2.png</url>
       <title>Juan Rafael Álvarez</title>
-      <link>/author/juan-rafael-alvarez/</link>
+      <link>https://juanralvarez.github.io/mypage/author/juan-rafael-alvarez/</link>
     </image>
     
     <item>
       <title>Light-matter interaction in open cavities with dielectric stacks</title>
-      <link>/publication/multilayer/</link>
+      <link>https://juanralvarez.github.io/mypage/publication/multilayer/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/multilayer/</guid>
+      <guid>https://juanralvarez.github.io/mypage/publication/multilayer/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,9 +33,9 @@
     
     <item>
       <title>Random number generation by coherent detection of quantum phase noise</title>
-      <link>/publication/rng/</link>
+      <link>https://juanralvarez.github.io/mypage/publication/rng/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rng/</guid>
+      <guid>https://juanralvarez.github.io/mypage/publication/rng/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,9 +52,9 @@
     
     <item>
       <title>Implementation and characterization of a controllable dephasing channel based on coupling polarization and spatial degrees of freedom of light</title>
-      <link>/publication/dephasing/</link>
+      <link>https://juanralvarez.github.io/mypage/publication/dephasing/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/dephasing/</guid>
+      <guid>https://juanralvarez.github.io/mypage/publication/dephasing/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Juan Rafael Álvarez # Website name
-baseurl: '' # Website URL
+baseurl: 'https://juanralvarez.github.io/mypage/' # Website URL
 publishDir: "docs"
 copyright: '© {year} Juan Rafael Álvarez' # Footer text, e.g. '© {year} Me'
 
