@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juanralvarez.github.io/mypage/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanralvarez.github.io/mypage/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanralvarez.github.io/mypage/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://juanralvarez.github.io/mypage/publication-type/2/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,6 +12,9 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanralvarez.github.io/mypage/author/axel-kuhn/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanralvarez.github.io/mypage/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanralvarez.github.io/mypage/author/juan-rafael-alvarez/</loc>
@@ -71,7 +65,16 @@
     <loc>https://juanralvarez.github.io/mypage/publication/dephasing/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://juanralvarez.github.io/mypage/publication/alfordgold/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanralvarez.github.io/mypage/author/jefferson-florez/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://juanralvarez.github.io/mypage/author/jiri-svozilik/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanralvarez.github.io/mypage/author/luis-jose-salazar-serrano/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanralvarez.github.io/mypage/author/mayerlin-nunez/</loc>
