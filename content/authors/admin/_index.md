@@ -57,7 +57,7 @@ social:
   link: https://orcid.org/0000-0003-3411-8237
 - icon: github
   icon_pack: fab
-  link: https://github.com/juanra31a
+  link: https://github.com/JuanRAlvarez
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/juanra31a/
