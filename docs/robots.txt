@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://juanralvarez.github.io/mypage/sitemap.xml
