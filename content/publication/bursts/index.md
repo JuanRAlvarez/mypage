@@ -1,16 +1,15 @@
 ---
-title: "Interference of two pulse-like spatial beams with arbitrary transverse separation"
+title: "Bursts of polarised single photons from atom-cavity sources"
 authors:
-- Jefferson Flórez
+- Jan Ole Ernst
 - admin
-- Omar Calderón-Losada
-- Luis José Salazar-Serrano
-- Alejandra Valencia
-date: "2018-04-30T00:00:00Z"
-doi: ""
+- Thomas D. Barrett
+- Axel Kuhn
+date: "2023-09-25"
+doi: "DOI 10.1088/1361-6455/ac5674"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-11-11T00:00:00Z"
+publishDate: "2023-09-25"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +18,19 @@ publishDate: "2016-11-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Optics*
-publication_short: In *J. Opt.*
+publication: In *Journal of Physics B*
+publication_short: In *J. Phys. B*
 
-abstract: 'We report the observation of interference in position and transverse momentum variables between two parallel-propagating Gaussian beams separated by an arbitrary distance. This resembles the Alford and Gold effect that has been reported for the time-frequency degree of freedom, and constitutes a method for spatial intensity shaping of light beams. We observe this interference by using a tunable beam displacer, which plays the role of a Michelson interferometer for the transverse spatial variables. Additionally, we employ the interference pattern as a function of the separation between the beams to determine the spatial coherence length of the original beam.'
-
-# # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: "Photonic qubits play an instrumental role in the development of advanced quantum technologies, including quantum networking, boson sampling and measurement based quantum computing. A promising framework for the deterministic production of indistinguishable single photons is an atomic emitter coupled to a single mode of a high finesse optical cavity. Polarisation control is an important cornerstone, particularly when the polarisation defines the state of a quantum bit. Here, we propose a scheme for producing bursts of polarised single photons by coupling a generalised atomic emitter to an optical cavity, exploiting a particular choice of quantisation axis. In connection with two re-preparation methods, simulations predict ten-photon bursts coincidence count rates on the order of 1 kHz with single 87Rb atoms trapped in a state of the art optical cavity. This paves the way for novel n-photon experiments with atom-cavity sources."
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Journal of Optics
-  url: https://iopscience.iop.org/article/10.1088/2040-8978/18/12/125201/meta
-url_pdf: https://iopscience.iop.org/article/10.1088/2040-8978/18/12/125201/pdf
+- name: "Journal of Physics B: Atomic, Molecular and Optical Physics"
+  url: https://iopscience.iop.org/article/10.1088/1361-6455/ac5674/meta
+# url_pdf: https://aip.scitation.org/doi/pdf/10.1063/5.0047145
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -46,7 +42,7 @@ url_pdf: https://iopscience.iop.org/article/10.1088/2040-8978/18/12/125201/pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Proposed scheme for the efficient generation of bursts of polarised photons'
   focal_point: ""
   preview_only: false
 
