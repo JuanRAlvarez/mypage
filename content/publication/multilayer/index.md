@@ -32,7 +32,7 @@ abstract: We evaluate the exact dipole coupling strength between a single emitte
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Applied Physics Letters

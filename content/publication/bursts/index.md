@@ -25,7 +25,7 @@ abstract: "Photonic qubits play an instrumental role in the development of advan
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: "Journal of Physics B: Atomic, Molecular and Optical Physics"

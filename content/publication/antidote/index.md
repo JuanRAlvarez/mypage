@@ -29,7 +29,8 @@ publication_short: In *APL*
 abstract: "In his 1935 Gedankenexperiment, Erwin Schrödinger imagined a box with a cat and a poisonous substance which has a 50% probability of being released, based on the decay of a radioactive atom. As such, the life of the cat and the state of the poison become entangled, and the fate of the cat is determined upon opening the box. We present an experimental technique that keeps the cat alive on any account. This method relies on the time-resolved Hong–Ou–Mandel effect : two long, identical photons impinging on a beam splitter always bunch in either of the outputs. Interpreting the first photon detection as the state of the poison, the second photon is identified as the state of the cat. Even after the collapse of the first photon's state, we show their fates are intertwined through quantum interference. We demonstrate this by a sudden phase change between the inputs, administered conditionally on the outcome of the first detection, which steers the second photon to a pre-defined output and ensures that the cat is always observed alive."
 
 tags:
-- Source Themes
+- Feedback
+- Two-photon interference
 featured: true
 
 links:
@@ -68,11 +69,12 @@ projects:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
+In his 1935 Gedankenexperiment, Erwin Schrödinger imagined a poisonous substance which has a 50\% probability of being released, based on the decay of a radioactive atom. As such, the life of the cat and the state of the poison become entangled, and the fate of the cat is determined upon opening the box. We present an experimental technique that keeps the cat alive on any account. This method relies on the time-resolved Hong-Ou-Mandel effect: two long, identical photons impinging on a beam splitter always bunch in either of the outputs. Interpreting the first photon detection as the state of the poison, the second photon is identified as the state of the cat. Even after the collapse of the first photon's state, we show their fates are intertwined through quantum interference. We demonstrate this by a sudden phase change between the inputs, administered conditionally on the outcome of the first detection, which steers the second photon to a pre-defined output and ensures that the cat is always observed alive.
+
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

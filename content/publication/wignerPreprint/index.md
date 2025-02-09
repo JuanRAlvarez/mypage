@@ -26,7 +26,7 @@ abstract: In this work, we present an educational activity aimed at measuring th
 
 #tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link

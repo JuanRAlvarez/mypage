@@ -36,7 +36,7 @@ obtain the χ matrix associated to our channel.'
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Optics Express

@@ -77,11 +77,7 @@ image:
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+We present an educational activity for measuring Wigner distribution functions of quantum states of light in the undergraduate laboratory. The activity was implemented by undergraduate students in different courses of the undergraduate curriculum, and the resulting activity was tested by different students of an introductory Quantum Optics course at the Universidad de los Andes in Bogotá, Colombia. The activity consists of a two-hour laboratory practice where students work in a pre-aligned experimental setup and then use an open-access, custom made computational graphical user interface that enables the reconstruction of the Wigner distribution function. Since the testing of the activity coincided with the COVID-19 pandemic, the possibility of analyzing simulated data was included in the computational user interface. The activity is now running for in-person classes and its virtual feature is now valuable for the implementation of distance learning of Quantum Optics.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

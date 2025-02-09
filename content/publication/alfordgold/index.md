@@ -29,7 +29,7 @@ abstract: 'We report the observation of interference in position and transverse 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Journal of Optics

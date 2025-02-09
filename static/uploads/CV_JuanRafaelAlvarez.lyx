@@ -1,0 +1,3087 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass moderncv
+\begin_preamble
+% adjust the page margins
+\usepackage[scale=0.85,top=2cm,bottom=1.5cm]{geometry}
+%\usepackage[scale=0.94]{geometry}
+
+\moderncvtheme[green]{classic}
+\setlength{\hintscolumnwidth}{0.07\textwidth}
+
+%\usepackage{hyperref}
+
+% possible themes are "classic" and "casual"
+% optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+
+% required
+%\firstname{Juan Rafael}
+% required
+%\familyname{Álvarez Velásquez}
+
+\name{Juan Rafael}{\\[0.2ex]\mbox{Álvarez {\footnotesize{}(he/him)}}}
+%\name{Juan Rafael}{Álvarez Velásquez}
+
+% optional
+
+% optional, remove the line if not wanted
+%\title{Curriculum Vitae}
+
+\address{street and number}{postcode city}
+% '\\' adds a line break
+\address{19 Place Marguerite Perey}{91120 Palaiseau, France}
+
+% optional
+\phone{+33 769 282327}
+% optional
+\email{juanrafael.alvarez@telecom-paris.fr}
+\homepage{juanralvarez.github.io/mypage/}
+\extrainfo{Born 31/03/1993 in Medellín, Colombia \\ Speaks: Spanish, English, French}
+
+\photo[60pt][0pt]{FotoOxford.jpg}
+
+% optional
+%\quote{ }
+% Added by lyx2lyx
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children no
+\language english
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "biolinum" "Lato"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize 10
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 0
+\tocdepth -1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Note:
+
+\series default
+ The personal data like your name,
+ image,
+ address,
+ etc.
+ are set in the document preamble.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+maketitle
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace*{-14mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+About me
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="55col%">
+<column alignment="center" valignment="top" width="2col%">
+<column alignment="center" valignment="top" width="45col%">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+Experimental physicist interested in quantum information processing and fundamentals of quantum mechanics using light.
+\end_layout
+
+\begin_layout Itemize
+\align block
+Postdoctoral fellow (C2N - CNRS) in the team led by Prof.
+ Pascale Senellart between March 2023 and August 2024.
+\end_layout
+
+\begin_layout Itemize
+Obtained PhD in March 2023 at the University of Oxford,
+ in the Atom-Photon connection group led by Prof.
+ Axel Kuhn.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+International experience in research groups in France,
+ UK,
+ Spain,
+ Austria,
+ USA and Colombia.
+\end_layout
+
+\begin_layout Itemize
+\align block
+Nine publications:
+ three first-author,
+ four second-author.
+\end_layout
+
+\begin_layout Itemize
+\align block
+Teaching,
+ outreach,
+ paper reviewing and institutional responsibilities.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Professional experience
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+01/2025-Present
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Assistant Professor (Enseignant-Chercheur) in Photonics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Télécom Paris - Institut Polytechnique de Paris
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Palaiseau,
+ France
+\end_layout
+
+\end_inset
+
+ Group of Optical Telecommunications (GTO),
+ Communications and Electronics (COMELEC) department
+\size footnotesize
+.
+\begin_inset Newline newline
+\end_inset
+
+Experimental and theoretical work in Optical Telecommunications with Quantum light
+\begin_inset space \medspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+03/2023-08/2024
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Postdoctoral Researcher
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Centre de Nanosciences et de Nanotechnologies,
+ C2N,
+ CNRS,
+ Université Paris Saclay
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Palaiseau,
+ France
+\end_layout
+
+\end_inset
+
+ Group of Optics in the Solid State - Advisors:
+ Prof.
+ Pascale Senellart,
+ Dr.
+ Nadia Belabas
+\size footnotesize
+
+\begin_inset Newline newline
+\end_inset
+
+Experimental and theoretical work:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space \medspace{}
+\end_inset
+
+-Direct measurement of the Wigner function of a single photon emitted by a quantum dot single photon source.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space \medspace{}
+\end_inset
+
+-Development of quantum communication protocols using on-demand single photon sources.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space \medspace{}
+\end_inset
+
+-Development of high-dimensional quantum communication protocols using frequency bin entangled four wave mixing sources.
+\end_layout
+
+\begin_layout Section
+Skills
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Experiment
+\end_layout
+
+\end_inset
+
+Proficiency in operation of single photon sources with Rubidium atoms and quantum dots in cavities.
+ Operation and design of advanced optical systems in the near infrared.
+ Operation of external cavity diode lasers,
+ femtosecond lasers,
+ continuous wave fiber lasers and optical frequency combs.
+ Basic operation of vacuum systems,
+ cryostats,
+ optical cavity mounting and alignment,
+ and laser cooling systems for neutral atoms.
+ Skills in electronic circuit analysis.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Software
+\end_layout
+
+\end_inset
+
+ Mathematica,
+ Matlab (Modeling and simulation of quantum optical systems),
+ Python (Experimental control,
+ modeling,
+ simulation).
+ Basic usage and understanding of Tensorflow/Keras and QuTiP,
+ Lumerical MODE Solutions.
+ Adobe Illustrator,
+ Inkscape.
+ Web design in Wordpress and HUGO.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Others
+\end_layout
+
+\end_inset
+
+ Strong interest and experience in communication and outreach in quantum optics.
+ Public tenders (purchase of fourteen SNSPDs at C2N - Liasing with suppliers and support from Thorlabs,
+ Toptica,
+ Single Quantum,
+ Menlo Systems and PhotonSpot).
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Languages
+\end_layout
+
+\end_inset
+
+ 
+\series bold
+Spanish
+\series default
+ (Native language) | 
+\series bold
+English
+\series default
+ (fluent - TOEFL iBT 112/120) | 
+\series bold
+French
+\series default
+ (fluent - DELF B2 74.5/100) |
+\series bold
+ German
+\series default
+ (Intermediate - Minor in German Language - Universidad de los Andes,
+ Colombia).
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Safety
+\end_layout
+
+\end_inset
+
+Trained in First Aid and fire marshaling.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Hobbies
+\end_layout
+
+\end_inset
+
+ Photography (
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "link here"
+target "instagram.com/juanra_31/"
+literal "true"
+
+\end_inset
+
+
+\bar default
+),
+ generative art,
+ swimming,
+ basic piano,
+ drone piloting.
+\end_layout
+
+\begin_layout Section
+Education
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+10/2018-01/2023
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Doctorate of Philosophy in Atomic and Laser Physics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+University of Oxford
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+United Kingdom
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Horizon 2020 MSCA fellowship - 
+\begin_inset CommandInset href
+LatexCommand href
+name "LIMQUET"
+target "limquet.eu"
+literal "false"
+
+\end_inset
+
+ Innovative Training Network.
+\begin_inset Newline newline
+\end_inset
+
+Atom-Photon Connection Group - Supervisor:
+ Prof.
+ 
+\series bold
+Axel Kuhn
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Pushing cavity-based single photon sources to the limit:
+ Photon feedback,
+ coherent repumping and multilayer cavities 
+\series default
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+-Contributed to simulations in Python and Mathematica to model the driving of 
+\begin_inset Formula $^{87}\text{Rb}$
+\end_inset
+
+ atoms in cavities.
+ With the full structure of the atomic line modelled in QuTiP,
+ I calculated the efficiencies for multi-photon production.
+\begin_inset Newline newline
+\end_inset
+
+-Developed calculations and simulations for the time-resolved photon interference between long photons produced by atoms in optical cavities.
+\begin_inset Newline newline
+\end_inset
+
+-Joined the experimental team,
+ using devices such as superconducting nanowire single photon detectors,
+ frequency combs and locking electronics for stabilizing the frequencies of different lasers in the laboratory.
+\begin_inset Newline newline
+\end_inset
+
+-Proposed experiments for the improvement of single photon production by making use of the complete structure of Rubidium.
+ Publication [7]
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+09/2016-09/2018
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Master in Photonics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\bar under
+\begin_inset CommandInset href
+LatexCommand href
+name "Europhotonics POESII Master"
+target "https://www.europhotonics.org/"
+literal "false"
+
+\end_inset
+
+
+\bar default
+ - Erasmus+ Scholarship
+\end_layout
+
+\end_inset
+
+ 
+\series bold
+Year 1
+\series default
+:
+ Aix-Marseille Université - Marseille,
+ France.
+ (GPA 17.097/20.00 - 
+\series bold
+Mention Très Bien
+\series default
+)
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Year 2
+\series default
+:
+ Photonics BCN (UAB-UB-UPC-ICFO) - Barcelona,
+ Spain.
+ (GPA 9.21/10.00)
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\size footnotesize
+Master thesis title
+\series default
+:
+ Coherence-based quantum random number generator.
+ Director:
+ Prof.
+ 
+\series bold
+Juan P.
+ Torres
+\series default
+.
+ (Link 
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "https://upcommons.upc.edu/bitstream/handle/2117/124622/TFM_JuanRafaelAlvarez.pdf?sequence=1&isAllowed=y"
+literal "false"
+
+\end_inset
+
+)
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Deployment,
+ automation and data processing of random number generation from two tuneable telecom lasers.
+ Publication of results in Optics Express [3].
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+01/2012-08/2016
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Bachelor of Mathematics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Universidad de los Andes
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Bogotá
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+GPA 4.47/5.00
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\size footnotesize
+Undergraduate thesis:
+
+\series default
+ Stokes phenomena in classical special functions:
+ Bessel and Weber functions with applications.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Supervisor:
+ Prof.
+ 
+\series bold
+Alexander Getmanenko
+\series default
+.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+01/2011-12/2014
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Bachelor of Physics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Universidad de los Andes
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Bogotá
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+ 
+\series bold
+GPA 
+\series default
+4.52/5.00
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\size footnotesize
+Undergraduate thesis:
+
+\series default
+ Coupling the spatial and polarization degrees of freedom of light:
+ Applications in measurement theory and open quantum systems
+\begin_inset Newline newline
+\end_inset
+
+Participated in six semesters of undergraduate research under the guidance of Prof.
+ 
+\series bold
+Alejandra Valencia
+\series default
+,
+ resulting in participation in the FiO 2015 and QIM 2017 conferences,
+ and publications in the Journal of Optics [1] and Optics Express [2].
+\end_layout
+
+\begin_layout Section
+Internships and Secondments
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+01-03/2020
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Secondment
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Stéphane Guérin group
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Institut Carnot de Bourgogne,
+ Dijon,
+ France
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+\emph on
+Project:
+ Estimation of mode volume for leaky optical cavities.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+-Developed simulations in MATLAB and Mathematica to model the propagation of light through a cavity whose mirrors were made of multilayer dielectric stacks.
+\begin_inset Newline newline
+\end_inset
+
+- It yielded a publication [4],
+ and involved simulations in Mathematica and MATLAB as well as the theoretical modeling of the mode propagation in multilayered structures.
+ This project was done in close collaboration with Astghik Saharyan,
+ a PhD student from the Carnot institute.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+06-09/2018
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Summer Fellowship - ICFO - Fundació Catalunya-La Pedrera
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Quantum Engineering of Light Group
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+ICFO,
+ Barcelona,
+ Spain
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+\emph on
+Project:
+ Random number generation by coherent detection of quantum phase noise.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+- This project was made in connection with my master's thesis.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+05-09/2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Internship
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Rupert Ursin Group
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+IQOQI Vienna,
+ Austria
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+\emph on
+Project:
+ QPOINTS:
+ Quantum POlarization-based mINiaturized phoTon pair Source.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+- Experimental project to produce a proof of concept for a single-photon emitting CubeSat.
+ Produced photon pairs using a type 0 PPKTP crystal embedded within SM1 mounts.
+ Developed electronics,
+ refrigeration and automation of operation.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+11/2016 - 02/2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Student research
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Aix-Marseille Université - École Centrale de Marseille,
+ France
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Thomas Durt Group
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+\emph on
+Project:
+ Bouncing oil droplets:
+ Wave-particle duality at the macro-scale.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+-Theoretical project performed in pairs with another master student,
+ Riya Sett.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+06-07/2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Internship
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Jin Suntivich Lab
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+MSE - Cornell University,
+ Ithaca,
+ NY,
+ USA
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+\emph on
+Project:
+ Design of a ring resonator for strong cavity-matter coupling.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+- Computational project performed as undergraduate research for the summer of 2015.
+ Used Lumerical FDTD to understand strong light-matter coupling in a resonator design.
+\end_layout
+
+\begin_layout Section
+Publications
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[9]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Decoherence Assisted Quantum Key Distribution
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+D.R.
+ Sabogal,
+ D.F.
+ Urrego,
+ 
+\bar under
+J.-R.
+ Álvarez
+\bar default
+,
+ A.F.
+ Herrera,
+ J.P.
+ Torres,
+ A.
+ Valencia - 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "arXiv preprint - arXiv:2405.20153 (2024)"
+target "https://arxiv.org/abs/2405.20153"
+literal "false"
+
+\end_inset
+
+.
+
+\bar default
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[8]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Measuring Wigner functions of quantum states of light in the undergraduate laboratory
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+\bar under
+J.-R.
+ Álvarez
+\bar default
+,
+ A.M.
+ Silva,
+ A.
+ Valencia,
+ .
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "arXiv preprint - arXiv:2310.17525 (2023)"
+target "https://arxiv.org/abs/2310.17525"
+literal "false"
+
+\end_inset
+
+.
+
+\bar default
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[7]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Bursts of polarised single photons from atom-cavity sources
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+J.O.
+ Ernst,
+ 
+\bar under
+J.-R.
+ Álvarez
+\bar default
+,
+ T.D.
+ Barrett,
+ A.
+ Kuhn,
+ .
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "J. Phys. B: At. Mol. Opt. Phys.  56 205003 (2023)"
+target "https://iopscience.iop.org/article/10.1088/1361-6455/acf9d2/meta"
+literal "false"
+
+\end_inset
+
+.
+
+\bar default
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[6]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+How to administer an antidote to Schrödinger's cat
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+\bar under
+J.-R.
+ Álvarez
+\bar default
+,
+ M.
+ IJspeert,
+ O.
+ Barter,
+ B.
+ Yuen,
+ T.D.
+ Barrett,
+ D.
+ Stuart,
+ J.
+ Dilley,
+ A.
+ Holleczek,
+ and A.
+ Kuhn.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "J. Phys. B: At. Mol. Opt. Phys.  55 054001 (2022)"
+target "https://iopscience.iop.org/article/10.1088/1361-6455/ac5674"
+literal "false"
+
+\end_inset
+
+.
+
+\bar default
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[5]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Equivalence regimes for geometric quantum discord and local quantum uncertainty
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+O.
+ Cordero-Boronat,
+ A.
+ Villegas,
+ J.-R.
+ Álvarez,
+ R.
+ J.
+ León-Montiel,
+ M.
+ Passos,
+ and J.P.
+ Torres
+\emph on
+.
+ 
+\emph default
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Phys. Rev. A 104, 042401 (2021)"
+target "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.042401"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[4]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Light-matter interaction in open cavities with dielectric stacks
+\end_layout
+
+\end_inset
+
+ A.
+ 
+\size footnotesize
+Saharyan,
+ J.-R.
+ Álvarez,
+ T.
+ Doherty,
+ A.
+ Kuhn,
+ and S.
+ Guérin.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Appl. Phys. Lett. 118, 154002 (2021)"
+target "https://aip.scitation.org/doi/10.1063/5.0047145"
+literal "false"
+
+\end_inset
+
+
+\bar default
+.
+ (short video of research 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "https://youtu.be/ADXKFdpzwR0"
+literal "false"
+
+\end_inset
+
+
+\bar default
+)
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[3]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Random number generation by coherent detection of quantum phase noise
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+J.-R.
+ Álvarez,
+ S.
+ Sarmiento,
+ J.
+ A.
+ Lázaro,
+ J.
+ M.
+ Gené and J.
+ P.
+ Torres.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Optics Express 28, 4, 5538 (2020)"
+target "https://doi.org/10.1364/OE.383196"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[2]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Implementation and characterization of a controllable dephasing channel based on coupling polarization and spatial degrees of freedom of light
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+D.F.
+ Urrego,
+ J.-R.
+ Álvarez,
+ O.
+ Calderón-Losada,
+ J.
+ Svozilík,
+ M.
+ Nuñez and A.
+ Valencia.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Optics Express 26, 9, 11940 (2018)"
+target "https://doi.org/10.1364/OE.26.011940"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+[1]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Interference of two pulse-like spatial beams with arbitrary transverse separation.
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+J.
+ Flórez,
+ J.R.
+ Álvarez,
+ O.
+ Calderón-Losada,
+ L.J.
+ Salazar-Serrano and A.
+ Valencia.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Journal of Optics, 18, 125201 (2016)"
+target "http://doi.org/10.1088/2040-8978/18/12/125201"
+literal "false"
+
+\end_inset
+
+
+\bar default
+.
+\end_layout
+
+\begin_layout Section
+Selected participation in Conferences
+\end_layout
+
+\begin_layout Entry
+\paragraph_spacing single
+\noindent
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2024
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Talk - Interference between quantum-dot emitted single photons and weak coherent states
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+ 
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Quantum 2.0 2024, Paper QM5B.2"
+target "https://doi.org/10.1364/QUANTUM.2024.QM5B.2"
+literal "false"
+
+\end_inset
+
+ - Rotterdam,
+ The Netherlands.
+\end_layout
+
+\begin_layout Entry
+\paragraph_spacing single
+\noindent
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2023
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Talk - Measuring Wigner functions of quantum states of light in the undergraduate lab
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+ 
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\size default
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "ETOP 2023, Cocoa Beach, FL, USA, paper 127232U"
+target "https://opg.optica.org/abstract.cfm?uri=ETOP-2023-127232U"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\paragraph_spacing single
+\noindent
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2022
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Talk - Administering an antidote to Schrödinger's cat
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+ 
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\size default
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Quantum 2.0 2022, paper QTh3C.1"
+target "https://doi.org/10.1364/QUANTUM.2022.QTh3C.1"
+literal "false"
+
+\end_inset
+
+
+\size footnotesize
+\bar default
+ 
+\begin_inset Formula $\circ$
+\end_inset
+
+ Upgraded to invited talk 
+\begin_inset Formula $\circ$
+\end_inset
+
+ Student paper finalist.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\circ$
+\end_inset
+
+ Atomic and Laser Physics Seminar Oxford Physics,
+ 14/02/2022.
+ Link 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "https://www.physics.ox.ac.uk/events/alp-seminar-how-administer-antidote-schrodingers-cat"
+literal "false"
+
+\end_inset
+
+
+\bar default
+.
+\end_layout
+
+\begin_layout Entry
+\paragraph_spacing single
+\noindent
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2020
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Talk/Poster:
+ Cavity-based photon-generation schemes using STIRAP re-preparation
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+ 
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\series bold
+Poster - 
+\series default
+QTech 2020 Conference 
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\series bold
+Poster - 
+\series default
+OSA Siegman School All Stars.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "(Virtual poster here)"
+target "https://juanralvarez.github.io/ReferenceList_SiegmanPoster/"
+literal "false"
+
+\end_inset
+
+ 
+\bar default
+
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\series bold
+Talk - 
+\series default
+YAO 25 Conference - Hamburg,
+ Germany.
+ 
+\begin_inset Formula $\circ$
+\end_inset
+
+ 
+\series bold
+Talk -
+\series default
+ CAMEL XV conference,
+ Nesebar,
+ Bulgaria.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Poster - Spatial Interference of light:
+ a method to generate structured environments to study quantum dynamics
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "QIM IV Conference, April 2017, Paris, France."
+target "https://doi.org/10.1364/QIM.2017.QT6A.27"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2016
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Talk - Synthesizer of arbitrary polarization states
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+J.R.
+ Alvarez,
+ D.
+ F.
+ Urrego,
+ M.
+ Nunez Portela,
+ and A.
+ Valencia.
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "LAOP Conference,  (OSA 2016), paper LTh2B.5."
+target "https://doi.org/10.1364/LAOP.2016.LTh2B.5"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Proceedings - Light Interference in Position and Momentum Variables:
+ the Spatial Alford and Gold Effect
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+J.
+ Florez,
+ O.
+ Calderon-Losada,
+ L.-J.
+ Salazar-Serrano,
+ J.R.
+ Alvarez,
+ and A.
+ Valencia.
+
+\size default
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "FiO 2015, OSA paper FTh1C.5."
+target "https://doi.org/10.1364/FIO.2015.FTh1C.5"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\paragraph_spacing single
+\noindent
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Poster - Grupo de Óptica de los Andes - OSA Student Chapter
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+OSA Student Chapter Leadership Conference 2015,
+ San Jose,
+ CA,
+ USA.
+\end_layout
+
+\begin_layout Entry
+\paragraph_spacing single
+\noindent
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Proceedings - Making optics appealing in Colombia through low-cost experiments with lasers
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+J.R.
+ Álvarez,
+ N.
+ Barbosa,
+ S.
+ Cotrino,
+ D.A.
+ Guzmán,
+ V.
+ Mahecha,
+ C.
+ Medina,
+ M.C.
+ Navarrete,
+ L.
+ Uribe and A.
+ Valencia.
+
+\size default
+ 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Proc. SPIE 9793 - ETOP 2015, 979333 (Oct 8, 2015)."
+target "https://doi.org/10.1117/12.2223254"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Awards
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+2018-22
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Marie Sklodowska Curie Early Stage Researcher grant
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Awarded to perform my DPhil in the Innovative Training Network LIMQUET,
+ LIght Matter interfaces for QUantum Enabled Technologies.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2022
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "Zuegel family scholarship"
+target "https://www.optica.org/events/topical_meetings/siegman_international_school_on_lasers/travel/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Awarded to attend the 2022 Siegman School on Lasers.
+ Merit-based award focused on global diversity and academic achievement.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2021
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Oxford Physics Instagram Photography Competition
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Awarded for a photography competition showing the most representative images of my research on Instagram.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2018
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+ICFO summer fellow
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Awarded for performing research in the summer of 2018 at the Institute of Photonic Sciences (ICFO) in Barcelona,
+ Spain.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2016
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Erasmus Mundus EMJMD
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Fully funded master program,
+ provided by the Europhotonics POESII Master.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Uniandes - Cornell University Summer Undergraduate Research Fellow
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Awarded to 25 students from the Universidad de los Andes to perform research fully funded in the summer of 2015 at Cornell University,
+ in Ithaca,
+ New York.
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2010
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Olimpiadas del Conocimiento Medellín
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Awarded full scholarship and monetary stipend for performing undergraduate studies in Medellín (I turned this scholarship down).
+ Third runner up in a municipal competition,
+ out of 80 000 students.
+\end_layout
+
+\begin_layout Section
+Teaching Experience
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2021-23
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Oxford Physics - Lab demonstrator
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Lab Demonstrator for Oxford Physics Computing
+\begin_inset Newline newline
+\end_inset
+
+Helped students and marked practicals for year 1 and year 2 Oxford undergraduate students with computing problems.
+\begin_inset Newline newline
+\end_inset
+
+In the fall of 2022 I was appointed senior demonstrator,
+ training new demonstrators in the lab.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Year 1
+\series default
+ topics include an introduction to MATLAB,
+ numerical methods (RK4,
+ polynomial fitting,
+ numerical integration),
+ and the simulation of simple physical phenomena:
+ Rocket launching,
+ projectile motion,
+ Monte Carlo simulations,
+ radioactive decay and LCR circuits.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Year 2
+\series default
+ topics include the simulation in MATLAB or Python of more complex computational physics problems:
+ Ferromagnetism,
+ Fourier Optics,
+ Solitons,
+ Heat equations,
+ and Schrödinger's equation.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2023:
+ 
+\series default
+60 hours - 
+\series bold
+2022:
+ 
+\series default
+45 hours - 
+\series bold
+2021:
+ 
+\series default
+30 hours
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2019
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Clubes de ciencia Colombia
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Universidad EAFIT,
+ Medellín,
+ Colombia.
+ (Small video 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "https://youtu.be/bsJ5dIP3llU"
+literal "false"
+
+\end_inset
+
+
+\bar default
+)
+\begin_inset Newline newline
+\end_inset
+
+-Designed a one-week practical course for 30 students aged 15-16 in Medellín,
+ Colombia.
+\begin_inset Newline newline
+\end_inset
+
+Topics included introductions to light,
+ telecommunications and cryptography,
+ as well as the practical implementation of a laser sender-receiver for the reproduction of music.
+ - 40 hours
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2013-16
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Universidad de los Andes - Complementary courses
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Taught practice session courses for 10-25 students twice a week for 1 hour.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2016:
+ Linear Algebra - complementary course (25 students):
+ 
+\series default
+Basic vector and matrix algebra - determinants,
+ eigenvectors and eigenvalues,
+ abstract vector spaces,
+ and quadratic forms.
+ Student evaluation:
+ 3.8/4.
+ - 30 hours
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2015:
+ Integral calculus
+\series default
+ 
+\series bold
+- complementary course (25 students):
+ 
+\series default
+Basic techniques for integration,
+ parametric and polar integrals,
+ series and sequences,
+ and an introduction to ODEs.
+ - Student evaluation:
+ 3.74/4 - 30 hours
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2013:
+ Prephysics - complementary course (10 students):
+
+\series default
+ Topics included elementary mechanics without calculus:
+ kinematics,
+ dynamics,
+ conservation of energy,
+ angular momentum and Newtonian gravitation.
+ - Student evaluation:
+ 3.65/4 - 30 hours
+\begin_inset Newline newline
+\end_inset
+
+Teaching also included personalized teaching for three hours a week for students at the 
+\series bold
+Mathematics Pentagon 
+\series default
+(link 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "https://pentagono.uniandes.edu.co/"
+literal "false"
+
+\end_inset
+
+
+\bar default
+).
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2012-16
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Course monitoring - Universidad de los Andes
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Marked weekly homework for 20-100 students in a semester comprising 16 weeks of work.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2016:
+ Electronics (20 students) - 
+\series default
+Topics included the basic components of electronic design:
+ Kirchhoff's laws,
+ Thévenin and Norton's theorems,
+ RLC circuits,
+ diodes,
+ operational amplifiers,
+ transistors and logic gates.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2015:
+ Quantum Mechanics I and II (25 students) - 
+\series default
+Topics followed closely the books I and II of Cohen-Tannoudji's Quantum Mechanics.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2014:
+ Basic Physics II (100 students) - 
+\series default
+Topics were related to basic electromagnetism and thermodynamics,
+ but required no calculus.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+2012 and 2013:
+ Waves and fluids (25 students) - 
+\series default
+Topics followed closely the book Vibrations and Waves,
+ by A.P.
+ French.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2012-13
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Physics clinic for problem solving
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+I performed personalized tutoring for science and engineering undergraduate students in Newtonian mechanics,
+ electromagnetism and thermodynamics,
+ topics covered in the first two basic physics courses of the first year undergraduate students.
+ This was done in a facility provided by the physics department,
+ the 
+\series bold
+physics clinic for problem solving 
+\series default
+(link 
+\bar under
+
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "https://fisica.uniandes.edu.co/en/i-am-student/troubleshooting-clinic"
+literal "false"
+
+\end_inset
+
+
+\bar default
+).
+ The book used for these courses was Fundamentals of Physics,
+ by Halliday,
+ Resnick and Walker.
+\end_layout
+
+\begin_layout Section
+Outreach presentations
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2021
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Schrödinger’s Camel:
+ a philosophical discussion about the nature of quantum physics
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Michael Mahony Graduate Seminar.
+ Mansfield College,
+ University of Oxford.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2016
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Measuring the speed of light with a chocolate bar
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Demonstrative experiments in Optics - GOA OSA Student Chapter - Bogotá,
+ Colombia - Target:
+ University-wide students with general knowledge.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2015
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+The Optical Fiber - History,
+ Working principle and applications
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Planetarium of Bogotá,
+ Bogotá,
+ Colombia.- Target:
+ University-wide students with general knowledge.
+\end_layout
+
+\begin_layout Section
+Other relevant experience
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2021-
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Student supervision
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+2023-24 - Postdoctoral Supervision:
+ Advising PhD students (Hubert Lam,
+ Yann Portella,
+ Etienne Bargel,
+ George Crisan) for projects in single photon production and quantum communications.
+\begin_inset Newline newline
+\end_inset
+
+2021-22 - Informal advising and laboratory introduction:
+ MPhys (Jiawang Li) and DPhil students (Jan Ole Ernst) in the Atom-Photon connection laboratory to develop their projects in single photon production and photon demultiplexing.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2020-
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Peer reviewer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Optica Publishing Group
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+I have reviewed 23 articles for the Optica Publishing Group in the journals Applied Optics,
+ Optics Express,
+ Optics Letters and JOSA B,
+ and for the IOP in the Journal of Optics and the New Journal of Physics.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2021-22
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Residential Junior Dean
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Mansfield College,
+ University of Oxford
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Support of students,
+ Fire Safety and Welfare for the Ablethorpe/Rhodes Wolfson student residence of Mansfield College.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2021
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+LIMQUET 2021 Conference - Student Organizer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Christ Church,
+ University of Oxford
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Arrangement and organization of the LIMQUET 2021 conference,
+ happening in hybrid format in Christ Church and Online.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2018-21
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+President (2021) - Secretary (2019-20)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Oxford University Colombian Society
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Organization of academic and entertainment events to disseminate the Colombian culture in Oxford.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2018-21
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Student Representative
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Marie Skłodowska-Curie Actions - LIMQUET Innovative Training Network
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+Discussing logistical issues regarding the Innovative Training Network with the Project Officer and the Principal Investigators in organizational meetings.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2014-16
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+President (2015-16) - Secretary (2014)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+GOA (Grupo de Óptica de los Andes) OSA Student Chapter
+\end_layout
+
+\end_inset
+
+ 
+\size footnotesize
+Universidad de los Andes,
+ Bogotá,
+ Colombia.
+\begin_inset Newline newline
+\end_inset
+
+Created the student chapter's web page (link 
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "http://goa.uniandes.edu.co/"
+literal "false"
+
+\end_inset
+
+)
+\end_layout
+
+\end_body
+\end_document
